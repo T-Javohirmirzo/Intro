@@ -1,4 +1,2 @@
-print("hello world")
-#commenting nothing
-print("jarat")
-print("hello jarat")
+for _ in range(10):
+	print("jar")
